@@ -1,6 +1,6 @@
 👋 Hi, I’m Ravi!
 -----------------------------------------------------------------------------------------
-- I'm a third year undergrad at NIT Bhopal, pursuing Electronics & Communication
+- I'm a Final year undergrad at NIT Bhopal, pursuing B.Tech in Electronics & Communication
 Engineering
 
 - Currently I'm working on my Data Structures and Algorithms skills
